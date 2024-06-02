@@ -4,19 +4,12 @@ Me chamo Julio Cesar,
 
 Formardo em Gestão da Produção Industrial e cursando Banco de Dados
 
-
-
 <div>
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JulioAraujo92&show_icons=true&bg_color=00000000"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulioAraujo92&layout=compact&show_icons=true&bg_color=00000000"/>
 
 </div>
-
-
-
-
-
 
 ### Contato
 
